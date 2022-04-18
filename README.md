@@ -2,7 +2,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview 
-We werre tasked by the Pewlett-Hackard management to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, we need to write a report that summarizes our analysis and helps prepare Pewlett-Hackard management for the “silver tsunami” as many current employees reach retirement age. 
+We were tasked by the Pewlett-Hackard management to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, we need to write a report that summarizes our analysis and helps prepare Pewlett-Hackard management for the “silver tsunami” as many current employees reach retirement age. 
 
 
 

@@ -7,7 +7,7 @@ We were tasked by the Pewlett-Hackard management to determine the number of reti
 
 
 ## Procedure & Results: 
-In this project, we use QuickDBD and Schemas to design databases and writing intermediate-level SQL queries to answer important business questions for the company’s HR department. We also utilized PostreSQL a data base system to load, build, and host company data and pgAdmin and the result is a well-designed database with reporting capabilities. Initially, we imported 6 csv files containing employee details and job position information.
+In this project, we use QuickDBD and Schemas to design databases and writing intermediate-level SQL queries to answer important business questions for the company’s HR department. We utilized PostresSQL as the data base system to load, build, and host the company data. We used pgAdmin to run quarries and generated reports in a well-designed database with reporting capabilities. Initially, we imported 6 csv files containing employee details and job position information.
 
 1.  For our first task we ran querries to :
  
